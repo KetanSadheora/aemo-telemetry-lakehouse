@@ -1,0 +1,9 @@
+prefect
+pydantic
+duckdb
+deltalake
+pyarrow
+structlog
+requests
+pytest
+pandas
